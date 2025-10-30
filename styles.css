@@ -1,0 +1,12 @@
+body {
+    background: #111;
+    text-align: center;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+#game {
+    background: #222;
+    border: 3px solid white;
+    margin-top: 20px;
+}
